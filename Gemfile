@@ -1,0 +1,8 @@
+#source 'https://ruby.taobao.org/'
+source 'https://rubygems.org/'
+gem 'rake'
+gem 'sinatra'
+gem 'sinatra-contrib'
+#gem 'mysql2'
+gem 'sinatra-activerecord'
+gem 'sqlite3'
